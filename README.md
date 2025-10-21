@@ -13,7 +13,7 @@
 
 　<p align="center">![](https://komarev.com/ghpvc/?username=2ft-high&label=(♡⁠)&color=f2b1cb)
  
- 　<p align="center">✦      [atabook]((https://rarities.atabook.org))    [strwpge]((https://rars.straw.page)) </p>
+ 　<p align="center">✦      [atabook](https://rarities.atabook.org)    [strwpge](https://rars.straw.page) </p>
 
   <p align="center">       
 
